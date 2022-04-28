@@ -1,0 +1,2 @@
+rootProject.name = 'jd-homework-1.5-parser'
+include 'csv-json-parser'
