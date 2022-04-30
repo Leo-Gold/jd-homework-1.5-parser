@@ -1,5 +1,6 @@
 # Задача 1: CSV - JSON парсер
-
-два конвертора: 
-1. -[x] из формата CSV и XML в формат JSON
-2. -[x] парсер JSON файлов в Java классы.
+[CSV to JSON](csv-json-parser/src/main/java/Main.java)
+# Задача 2: XML - JSON парсер
+[XML to JSON](xml-json-parser/src/main/java/Main.java)
+# Задача 3: JSON парсер
+[JSON parser](json-parser/src/main/java/Main.java)
